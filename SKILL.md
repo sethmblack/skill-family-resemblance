@@ -3,8 +3,9 @@ name: family-resemblance
 description: Show that many concepts lack a single defining essence. Instead of seeking necessary and sufficient conditions, map the overlapping similarities that connect instances—like members of a family conn...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3983
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - family-resemblance-clarification
 - writing
